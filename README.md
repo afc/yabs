@@ -2,6 +2,8 @@
 Yet Another Bootstrap-Scheme
 
 # License
+Consider as for the simplicity, give license as WTFPL :-)
+
 ![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL")
 
 ```
@@ -46,4 +48,12 @@ Only with the very basic R5Rs feature, without garbage collection
 - apply
 - eval
 - I/O support
+
+# Acknowledges
+The source code highly based on Peter Michaux's [Scheme from Scratch] serious
+
+Original source code can be found in his github [bootstrap-scheme] project page
+
+[Scheme from Scratch]: http://peter.michaux.ca/index#Scheme
+[bootstrap-scheme]: https://github.com/petermichaux/bootstrap-scheme
 
