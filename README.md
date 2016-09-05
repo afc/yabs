@@ -2,6 +2,8 @@
 Yet Another Bootstrap-Scheme
 
 # License
+![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL")
+
 ```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
@@ -18,7 +20,6 @@ Yet Another Bootstrap-Scheme
   0. You just DO WHAT THE FUCK YOU WANT TO.
 ```
 
-[WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png "WTFPL")
 
 # Summary
 
