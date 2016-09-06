@@ -49,7 +49,7 @@ Only with the very basic R5Rs feature, without garbage collection
 - eval
 - I/O support
 
-# Acknowledges
+# Acknowledgements
 The source code highly based on Peter Michaux's [Scheme from Scratch] serious
 
 Original source code can be found in his github [bootstrap-scheme] project page
